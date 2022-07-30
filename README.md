@@ -8,63 +8,64 @@ The purpose of this analysis was to examine how removing the 9th graders from Th
 ## Results
 
   ### How is the district summary affected?
-  Original Analysis:
+  - Original Analysis:
   
-  New Analysis:
+  - New Analysis:
   
   - The school district analysis overall shows slightly higher scores after the removal of the Thompson High School 9th graders.
   
   ### How is the school summary affected?
   
-  Original Analysis:
+  - Original Analysis:
   
-  New Analysis:
+  - New Analysis:
   
   - The removal of the Thompson High School 9th graders resulted in ___ scores for the Thompson High School. This is curious, because these scores vastly improved, and one would expect the scores to have lowered after cheating students had been removed. 
   
   
   ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
-  Original Analysis:
+  - Original Analysis:
   
-  New Analysis:
+  - New Analysis:
   
   
   ### How does replacing the ninth-grade scores affect the following:
   
-  Original Analysis:
+  - Original Analysis:
   
-  New Analysis:
+  - New Analysis:
   
   
   ### Math and reading scores by grade
   
-  Original Analysis:
+  - Original Analysis:
   
-  New Analysis:
+  - New Analysis:
 
 
   ### Scores by school spending
   
-  Original Analysis:
+  - Original Analysis:
   
-  New Analysis:
+  - New Analysis:
   
   
   ### Scores by school size
   
-  Original Analysis:
+  - Original Analysis:
   
-  New Analysis:
+  - New Analysis:
   
   
   ### Scores by school type
   
-  Original Analysis:
+  - Original Analysis:
   
-  New Analysis:
+  - New Analysis:
 
 
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 

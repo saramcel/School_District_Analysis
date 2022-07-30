@@ -1,26 +1,13 @@
 # School_District_Analysis
- 
- ```
- _                                                         
-(_)                                                        
-| |      _ _   ___ ___       ___    _    _ __  _ __  _   _ 
-| |    /'_` )/' _ ` _ `\   /',__) /'_`\ ( '__)( '__)( ) ( )
-| |   ( (_| || ( ) ( ) |   \__, \( (_) )| |   | |   | (_) |
-(_)   `\__,_)(_) (_) (_)   (____/`\___/'(_)   (_)   `\__, |
-                                                    ( )_| |
-                                                    `\___/'
-```                                                    
-# Here is what I will do in my new attempt at the assignment
+Re-analyzing PyCity School District data after removing scores due to suspicion of academic dishonesty.
 
-Deliverable 3: A Written Report for the School District Analysis (25 points)
-Deliverable 3 Instructions
-For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
+## Overview of the school district analysis
 
-The analysis should contain the following:
+The purpose of this analysis was to examine how removing the 9th graders from Thompson High School changed the outputs. We would expect that the outputs for Thompson High School would be lower after the removal of the 9th graders because academic dishonesty is suspected. Most likely, they cheated to make their scores higher, which would inflate the scores in the original analysis. However, it is possible that academic dishonesty occurred that would not have necessarily increased scores for 9th graders (e.g. swapping tests, pulling the fire alarm, or using an outdated answer key). We will discover how the removal of these cases affects the overall results.
 
-Overview of the school district analysis: Explain the purpose of this analysis.
+## Results
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
 How is the school summary affected?
@@ -31,10 +18,6 @@ Scores by school spending
 Scores by school size
 Scores by school type
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (7 points)
-The written analysis has the following structure, organization, and formatting:
 
 There is a title, and there are multiple sections (2 pt).
 Each section has a heading and subheading (3 pt).

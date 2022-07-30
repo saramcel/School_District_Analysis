@@ -31,16 +31,8 @@ The purpose of this analysis was to examine how removing the 9th graders from Th
   - New Analysis:
   ![New results 3](/../Resources/N3.png)
   
-  
-  ### How does replacing the ninth-grade scores affect the following:
-  
-  - Original Analysis:
-  ![Original results 4](/../Resources/O4.png)
-  - New Analysis:
-  ![New results 4](/../Resources/N4.png)
-  
-  
-  ### Math and reading scores by grade
+   
+  ### How does replacing the ninth-grade scores affect math and reading scores by grade
   
   - Original Analysis:
   ![Original results 5](/../Resources/O5.png)
@@ -48,14 +40,14 @@ The purpose of this analysis was to examine how removing the 9th graders from Th
   ![New results 5](/../Resources/N5.png)
 
 
-  ### Scores by school spending
+  ### How does replacing the ninth-grade scores affect scores by school spending
   
   - Original Analysis:
   ![Original results 6](/../Resources/O6.png)
   - New Analysis:
   ![New results 6](/../Resources/N6.png)
   
-  ### Scores by school size
+  ### How does replacing the ninth-grade scores affect scores by school size
   
   - Original Analysis:
   ![Original results 7](/../Resources/O7.png)

@@ -72,7 +72,7 @@ non_cheater_total
   
   ![New results 4](/Resources/N4.png)
 
-  - There is now NaN for the 9th graders for math and reading scores because of the NaNs in Thomas High School 9th grade scores. These NaNs are not ignored in calculations and they are keeping the calculation from completing properly. A good idea would be to drop these students entirely from the data and try this analysis again.
+  - There is now NaN for Thomas High School 9th graders for math and reading scores because we replaced their scores with NaNs. 
 
   ### 5. How does replacing the ninth-grade scores affect scores by school spending
   
@@ -114,7 +114,7 @@ non_cheater_total
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 1. There were 416 fewer students in the total number of students (see Result 1). 
-2. The average scores for reading/math and the percent passing for math all decreased slightly, but the percent passing reading did not change (see Result 1).
+2. The school district average scores for reading/math and the percent passing for math all decreased slightly, but the percent passing reading did not change (see Result 1).
 3. There were slightly lower scores for Thomas High School readng and math averages and percent passing math, but the percent passing reading increased very slightly. (see Result 2)
-4. Sometimes the output could not show changes--For example, in Result 4, all 9th graders resulted in NaNs. 
+4. The average of NaNs in 9th grade at Thomas High School is also NaN (see Result 4). 
 

@@ -36,7 +36,7 @@ non_cheater_total
 
   ![New results 1](/Resources/N1.png)
   
-  - The school district analysis overall numbers are not very different after the removal of the Thomas High School 9th graders. There are 461 fewer students in the total. 
+  - The school district analysis overall numbers are not very different after the removal of the Thomas High School 9th graders--scores are slightly lowered or not altered at all. There are 461 fewer students in the total. 
   
   ### 2. How is the school summary affected?
   
@@ -48,7 +48,7 @@ non_cheater_total
   
   ![New results 2](/Resources/N2.png)
   
-  - The removal of the Thomas High School 9th graders resulted in slightly lower scores for Thomas High School averages and percent passing math, but curiously the percent passing reading increased very slightly. This is interesting, because one would expect the scores to have all decreased after cheating students had been removed. 
+  - The removal of the Thomas High School 9th graders resulted in slightly lower scores for Thomas High School math and reading averages and percent passing math, but curiously the percent passing reading increased very slightly. This is interesting, because one would expect the scores to have all decreased after cheating students had been removed. 
     
   ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
@@ -72,7 +72,7 @@ non_cheater_total
   
   ![New results 4](/Resources/N4.png)
 
-  - There is now NaN for the 9th graders for math and reading scores because of the NaNs in Thomas High School 9th grade scores. These NaNs are not ignored in calculations and they are keeping the calculation from completing properly. A good idea would be to drop these students entirely from the data so that the calculations will work.
+  - There is now NaN for the 9th graders for math and reading scores because of the NaNs in Thomas High School 9th grade scores. These NaNs are not ignored in calculations and they are keeping the calculation from completing properly. A good idea would be to drop these students entirely from the data and try this analysis again.
 
   ### 5. How does replacing the ninth-grade scores affect scores by school spending
   
@@ -111,7 +111,10 @@ non_cheater_total
    - There are no changes to the analysis by school type. The formatting would disguise very small changes because it rounds the numbers. 
   
 ## Summary
+
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-1. There were 416 fewer students in the total number of students (see Results 1).
-2. There were 
+1. There were 416 fewer students in the total number of students (see Result 1). 
+2. The average scores for reading/math and the percent passing for math all decreased slightly, but the percent passing reading did not change (see Result 1).
+3. There were slightly lower scores for Thomas High School readng and math averages and percent passing math, but the percent passing reading increased very slightly. (see Result 2)
+4. Sometimes the output could not show changes--For example, in Result 4, all 9th graders resulted in NaNs. 
 
